@@ -3,8 +3,8 @@
   become: yes
 
   vars:
-    repo_url: "https://github.com/sruthibv/3-tier-project.git"
-    app_path: "/root/3tier-ansible/"
+    repo_url: "https://github.com/Subratp12/ansible-3tier.git"
+    app_path: "/root/sp/"
     frontend_image: "frontend-app:latest"
     backend_image: "backend-app:latest"
     rds_host: "database-2.cvsqoacmkw59.us-east-1.rds.amazonaws.com"
