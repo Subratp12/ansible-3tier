@@ -3,7 +3,7 @@
   become: yes
 
   vars:
-    repo_url: "https://github.com/Subratp12/ansible-3tier.git"
+    repo_url: "https://github.com/Subratp12/2nd10WeeksofCloudOps-main.git"
     app_path: "/root/sp/"
     frontend_image: "frontend-app:latest"
     backend_image: "backend-app:latest"
